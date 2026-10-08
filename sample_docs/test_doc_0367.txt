@@ -1,0 +1,4 @@
+Document ID: 367
+Bank Statement
+Balance summary
+This is auto-generated test data.

@@ -1,0 +1,100 @@
+{
+  "batch_id": "Vetta_smoke_content_test_3",
+  "document_root": "C:\\Users\\HP\\Downloads\\Yanvior Technology\\Yanvior Technolgies",
+  "structure_root": "C:\\Users\\HP\\Downloads\\Vetta",
+  "documents_selected": 7,
+  "documents_imported": 7,
+  "documents_processed": 6,
+  "errors": [
+    {
+      "file": "doc02329420260304195832.pdf",
+      "id": "ac943b41-fa8c-4d5e-a97c-d89a00ca5007",
+      "error": "[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\\\Users\\\\HP\\\\Downloads\\\\doc-ganesh\\\\backend\\\\media\\\\uploads\\\\2026\\\\09\\\\17\\\\ac943b41-fa8c-4d5e-a97c-d89a00ca5007_doc02329420260304195832.pdf'"
+    }
+  ],
+  "status_counts": {
+    "NEEDS_REVIEW": 3,
+    "COMPLETED": 3
+  },
+  "category_counts": {
+    "Accounts and Bank Related Documents": 2,
+    "GST Certificate": 1,
+    "Incorporation and MCA related": 1,
+    "Purchase Order": 1,
+    "Bank Statement": 1
+  },
+  "route_counts": {
+    "Vetta/Accounts and Bank related Documents": 3,
+    "Vetta/Tax/GST": 1,
+    "Vetta/Incorporation and MCA related": 1,
+    "Vetta/Unclassified": 1
+  },
+  "results": [
+    {
+      "id": "7e6e24b1-0283-4905-934b-7385762aa3c8",
+      "file": "Adobe Scan 31 Mar 2026.pdf",
+      "category": "Accounts and Bank Related Documents",
+      "route": "Vetta/Accounts and Bank related Documents",
+      "status": "NEEDS_REVIEW",
+      "error": null,
+      "seconds": 0.02,
+      "is_ocr": false,
+      "text_chars": 599
+    },
+    {
+      "id": "51142da7-aa54-43d2-9bfb-e8e2107a1ea1",
+      "file": "AA3703260395519_RC06042026.pdf",
+      "category": "GST Certificate",
+      "route": "Vetta/Tax/GST",
+      "status": "COMPLETED",
+      "error": null,
+      "seconds": 0.038,
+      "is_ocr": false,
+      "text_chars": 2120
+    },
+    {
+      "id": "9d63db89-c416-42e1-8fb8-228d5445cb2a",
+      "file": "Certificate of Incorporation pursuant to change of name.pdf",
+      "category": "Incorporation and MCA related",
+      "route": "Vetta/Incorporation and MCA related",
+      "status": "NEEDS_REVIEW",
+      "error": null,
+      "seconds": 0.022,
+      "is_ocr": false,
+      "text_chars": 2127
+    },
+    {
+      "id": "98c76374-803e-4c57-969d-7e7a1401d43a",
+      "file": "Book2.xlsx",
+      "category": "Accounts and Bank Related Documents",
+      "route": "Vetta/Accounts and Bank related Documents",
+      "status": "NEEDS_REVIEW",
+      "error": null,
+      "seconds": 0.181,
+      "is_ocr": false,
+      "text_chars": 334
+    },
+    {
+      "id": "26b01a06-5aa6-4d58-b954-091904b6a675",
+      "file": "Book3.xlsx",
+      "category": "Purchase Order",
+      "route": "Vetta/Unclassified",
+      "status": "COMPLETED",
+      "error": null,
+      "seconds": 0.194,
+      "is_ocr": false,
+      "text_chars": 2602
+    },
+    {
+      "id": "e30c48a9-27f5-448e-bc46-5376a23ab66e",
+      "file": "BR for name Change in Bank.docx",
+      "category": "Bank Statement",
+      "route": "Vetta/Accounts and Bank related Documents",
+      "status": "COMPLETED",
+      "error": null,
+      "seconds": 0.218,
+      "is_ocr": false,
+      "text_chars": 1822
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "batch_id": "Vetta_Yanvior_full_content_test",
+  "document_root": "C:\\Users\\HP\\Downloads\\Yanvior Technology\\Yanvior Technolgies",
+  "structure_root": "C:\\Users\\HP\\Downloads\\Vetta",
+  "documents_selected": 443,
+  "documents_imported": 6,
+  "documents_processed": 6,
+  "errors": [],
+  "status_counts": {
+    "NEEDS_REVIEW": 5,
+    "COMPLETED": 1
+  },
+  "category_counts": {
+    "Unclassified": 5,
+    "Bank Statement": 1
+  },
+  "route_counts": {
+    "Vetta/Unclassified": 5,
+    "Vetta/Accounts and Bank related Documents": 1
+  },
+  "results": [
+    {
+      "id": "948b4750-16a6-41a7-be1a-4abb2704a6f7",
+      "file": "New Microsoft Excel Worksheet.xlsx",
+      "category": "Unclassified",
+      "route": "Vetta/Unclassified",
+      "status": "NEEDS_REVIEW",
+      "error": "No text could be extracted from this file.",
+      "seconds": 0.009,
+      "is_ocr": false,
+      "text_chars": 0
+    },
+    {
+      "id": "9d0a3037-f385-42d3-ace2-95490cba1bf9",
+      "file": "Mar_26.pdf",
+      "category": "Unclassified",
+      "route": "Vetta/Unclassified",
+      "status": "NEEDS_REVIEW",
+      "error": "No text could be extracted from this file.",
+      "seconds": 1.656,
+      "is_ocr": true,
+      "text_chars": 0
+    },
+    {
+      "id": "89394b59-993d-4af2-a25d-164cc9c1dbdf",
+      "file": "Acct_Statement_XXXXXXXX8888_23042026.pdf",
+      "category": "Unclassified",
+      "route": "Vetta/Unclassified",
+      "status": "NEEDS_REVIEW",
+      "error": "No text could be extracted from this file.",
+      "seconds": 1.719,
+      "is_ocr": true,
+      "text_chars": 0
+    },
+    {
+      "id": "0d8ce651-fc36-4c0a-b68e-fdc3a280b40f",
+      "file": "Acct_Statement_XXXXXXXX8888_23042026a.pdf",
+      "category": "Unclassified",
+      "route": "Vetta/Unclassified",
+      "status": "NEEDS_REVIEW",
+      "error": "No text could be extracted from this file.",
+      "seconds": 1.718,
+      "is_ocr": true,
+      "text_chars": 0
+    },
+    {
+      "id": "149f19c3-22c1-41c0-a22f-fcc407babf49",
+      "file": "Feb_26.pdf",
+      "category": "Unclassified",
+      "route": "Vetta/Unclassified",
+      "status": "NEEDS_REVIEW",
+      "error": "No text could be extracted from this file.",
+      "seconds": 1.79,
+      "is_ocr": true,
+      "text_chars": 0
+    },
+    {
+      "id": "2da62702-6392-46c1-b203-eb5d1bed78a4",
+      "file": "WhatsApp Image 2026-03-25 at 16.31.28.jpeg",
+      "category": "Bank Statement",
+      "route": "Vetta/Accounts and Bank related Documents",
+      "status": "COMPLETED",
+      "error": null,
+      "seconds": 3.9,
+      "is_ocr": true,
+      "text_chars": 312
+    }
+  ]
+}
